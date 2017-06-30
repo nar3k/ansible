@@ -1,6 +1,6 @@
-FROM williamyeh/ansible:ubuntu16.04
-RUN apt-get update
-RUN apt-get install -y libssl-dev gcc g++ libxml2 libxml2-dev python-lxml python-pip 
+FROM williamyeh/ansible:alpine3-onbuild
+RUN apk update
+RUN apk add  -y gcc g++ libxml2 libxml2-dev py-lxml py-pip python-dev 
 RUN pip install lxml pyvmomi nsxramlclient pysnmp
 CMD mkdir /ansible
 ENV ANSIBLE_HOST_KEY_CHECKING=False
