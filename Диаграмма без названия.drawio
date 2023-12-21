@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T20:29:19.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.806 YaBrowser/23.11.2.806 Yowser/2.5 Safari/537.36" version="22.1.11" etag="CKGLh9Q7uQkzpLZKcQ9q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T20:42:00.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.806 YaBrowser/23.11.2.806 Yowser/2.5 Safari/537.36" etag="vXeOR_8OgbpzbBz9wPju" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="5hGcMOGZf2VIPMHqFHNL">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-1" value="Nebius GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-2" value="Nebius Cloud Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-3" value="mk8s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-4" value="Kubernetes Infra K8s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="345" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-5" value="Nebius Gen&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-6" value="iam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="225" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-7" value="compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-8" value="vpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-9" value="Managed Service Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-10" value="Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-11" value="billing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-12" value="Nebius Cloud Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPVpoji-QZ5Nl2qnnzTQ-18" value="Kubernetes Kubervirt Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="345" width="410" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
